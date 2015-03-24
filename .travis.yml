@@ -1,0 +1,19 @@
+language: r
+
+script: 
+#    - cd ../ && Rscript tests.R
+
+#before_install:
+#    - cd pkg
+
+#r_packages:
+#    - testthat
+
+#apt_packages:
+#    - texlive-science
+#    - latex-xcolor
+
+notifications:
+    email:
+      on_success: change
+      on_failure: change
