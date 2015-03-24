@@ -9,9 +9,9 @@ script:
 #r_packages:
 #    - testthat
 
-#apt_packages:
+apt_packages:
     - latex-xcolor
-    - texlive-science
+#    - texlive-science
 
 
 notifications:
