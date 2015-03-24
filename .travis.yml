@@ -11,7 +11,7 @@ script:
 
 #apt_packages:
     - latex-xcolor
-#    - texlive-science
+    - texlive-science
 
 
 notifications:
