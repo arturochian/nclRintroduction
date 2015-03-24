@@ -10,8 +10,9 @@ script:
 #    - testthat
 
 #apt_packages:
+    - latex-xcolor
 #    - texlive-science
-#    - latex-xcolor
+
 
 notifications:
     email:
